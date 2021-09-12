@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/eCommerceApp_React_Preview/static/css/main.36306331.chunk.css",
+    "main.js": "/eCommerceApp_React_Preview/static/js/main.ab533b83.chunk.js",
+    "main.js.map": "/eCommerceApp_React_Preview/static/js/main.ab533b83.chunk.js.map",
+    "runtime-main.js": "/eCommerceApp_React_Preview/static/js/runtime-main.b00cacbc.js",
+    "runtime-main.js.map": "/eCommerceApp_React_Preview/static/js/runtime-main.b00cacbc.js.map",
+    "static/js/2.7fdc6788.chunk.js": "/eCommerceApp_React_Preview/static/js/2.7fdc6788.chunk.js",
+    "static/js/2.7fdc6788.chunk.js.map": "/eCommerceApp_React_Preview/static/js/2.7fdc6788.chunk.js.map",
+    "index.html": "/eCommerceApp_React_Preview/index.html",
+    "static/css/main.36306331.chunk.css.map": "/eCommerceApp_React_Preview/static/css/main.36306331.chunk.css.map",
+    "static/js/2.7fdc6788.chunk.js.LICENSE.txt": "/eCommerceApp_React_Preview/static/js/2.7fdc6788.chunk.js.LICENSE.txt",
+    "static/media/apple-MacBookAir13.2ca9db36.jpg": "/eCommerceApp_React_Preview/static/media/apple-MacBookAir13.2ca9db36.jpg",
+    "static/media/apple-MacPro.71f48679.jpg": "/eCommerceApp_React_Preview/static/media/apple-MacPro.71f48679.jpg",
+    "static/media/apple-MagicKeyboard.245c07d7.jpg": "/eCommerceApp_React_Preview/static/media/apple-MagicKeyboard.245c07d7.jpg",
+    "static/media/apple-MagicMouse.77a0522b.jpg": "/eCommerceApp_React_Preview/static/media/apple-MagicMouse.77a0522b.jpg",
+    "static/media/apple-first-gen.003f9847.jpg": "/eCommerceApp_React_Preview/static/media/apple-first-gen.003f9847.jpg",
+    "static/media/apple-iMac.86dece35.jpg": "/eCommerceApp_React_Preview/static/media/apple-iMac.86dece35.jpg",
+    "static/media/apple-iMac_m1.4e500508.jpg": "/eCommerceApp_React_Preview/static/media/apple-iMac_m1.4e500508.jpg",
+    "static/media/apple-iPad10.c0a3488b.jpg": "/eCommerceApp_React_Preview/static/media/apple-iPad10.c0a3488b.jpg",
+    "static/media/apple-iPhone12.6376860c.jpg": "/eCommerceApp_React_Preview/static/media/apple-iPhone12.6376860c.jpg",
+    "static/media/apple-macMini.1fb28098.jpg": "/eCommerceApp_React_Preview/static/media/apple-macMini.1fb28098.jpg",
+    "static/media/sales.4bb092a3.png": "/eCommerceApp_React_Preview/static/media/sales.4bb092a3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b00cacbc.js",
+    "static/js/2.7fdc6788.chunk.js",
+    "static/css/main.36306331.chunk.css",
+    "static/js/main.ab533b83.chunk.js"
+  ]
+}
