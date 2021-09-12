@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/eCommerceApp_React_Preview/static/css/main.36306331.chunk.css",
-    "main.js": "/eCommerceApp_React_Preview/static/js/main.ab533b83.chunk.js",
-    "main.js.map": "/eCommerceApp_React_Preview/static/js/main.ab533b83.chunk.js.map",
+    "main.js": "/eCommerceApp_React_Preview/static/js/main.c3dc2320.chunk.js",
+    "main.js.map": "/eCommerceApp_React_Preview/static/js/main.c3dc2320.chunk.js.map",
     "runtime-main.js": "/eCommerceApp_React_Preview/static/js/runtime-main.b00cacbc.js",
     "runtime-main.js.map": "/eCommerceApp_React_Preview/static/js/runtime-main.b00cacbc.js.map",
-    "static/js/2.7fdc6788.chunk.js": "/eCommerceApp_React_Preview/static/js/2.7fdc6788.chunk.js",
-    "static/js/2.7fdc6788.chunk.js.map": "/eCommerceApp_React_Preview/static/js/2.7fdc6788.chunk.js.map",
+    "static/js/2.e49daf71.chunk.js": "/eCommerceApp_React_Preview/static/js/2.e49daf71.chunk.js",
+    "static/js/2.e49daf71.chunk.js.map": "/eCommerceApp_React_Preview/static/js/2.e49daf71.chunk.js.map",
     "index.html": "/eCommerceApp_React_Preview/index.html",
     "static/css/main.36306331.chunk.css.map": "/eCommerceApp_React_Preview/static/css/main.36306331.chunk.css.map",
-    "static/js/2.7fdc6788.chunk.js.LICENSE.txt": "/eCommerceApp_React_Preview/static/js/2.7fdc6788.chunk.js.LICENSE.txt",
+    "static/js/2.e49daf71.chunk.js.LICENSE.txt": "/eCommerceApp_React_Preview/static/js/2.e49daf71.chunk.js.LICENSE.txt",
     "static/media/apple-MacBookAir13.2ca9db36.jpg": "/eCommerceApp_React_Preview/static/media/apple-MacBookAir13.2ca9db36.jpg",
     "static/media/apple-MacPro.71f48679.jpg": "/eCommerceApp_React_Preview/static/media/apple-MacPro.71f48679.jpg",
     "static/media/apple-MagicKeyboard.245c07d7.jpg": "/eCommerceApp_React_Preview/static/media/apple-MagicKeyboard.245c07d7.jpg",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b00cacbc.js",
-    "static/js/2.7fdc6788.chunk.js",
+    "static/js/2.e49daf71.chunk.js",
     "static/css/main.36306331.chunk.css",
-    "static/js/main.ab533b83.chunk.js"
+    "static/js/main.c3dc2320.chunk.js"
   ]
 }
