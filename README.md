@@ -43,3 +43,8 @@ Of course, I would like to thank J E N S - who encouraged and advised me to have
 
 What else? -- Joeri + Elias, Thank you so much for your positive valuable suggestions and encouragement, these includes all of you my classmates.
 Cheers!!
+
+## [DEMO - Live Preview](https://marvel-eb.github.io/eCommerceApp_React_Preview/)
+
+## [SOURCE CODE - Preview](https://github.com/marvel-eb/TG-Web-Dev/tree/master/Week_10%20-%2016%20%5B%20React%20%5D/eCommerceApp_React)
+
