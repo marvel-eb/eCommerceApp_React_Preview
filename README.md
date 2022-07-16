@@ -44,5 +44,5 @@ Firebase - Hosting & User Authentication
 ## [🌐 DEMO - Live Preview](https://marvel-eb.github.io/eCommerceApp_React_Preview/)
 
 
-## [📁 SOURCE CODE - Preview](https://github.com/marvel-eb/WebDevelopment_TechGrounds/tree/master/Week_10%20-%2016%20%5B%20React%20%5D/eCommerceApp_React)
+## [📁 SOURCE CODE - Preview](https://github.com/marvel-eb/WebDevelopment_TechGrounds/tree/master/Week_10-16__ReactJS/eCommerceApp_React)
 
